@@ -1,0 +1,6 @@
+name: AudioSequencer
+version: '${project.version}'
+main: me.yjjcoolcool.audiosequencer.AudioSequencer
+api-version: 1.18
+authors: [ YJJcoolcool ]
+description: Audio sequencing plugin for Minecraft
